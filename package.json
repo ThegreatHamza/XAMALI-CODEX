@@ -1,0 +1,14 @@
+{
+  "name": "xamali-vendored",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Vendored/offline XAMALI web app runtime",
+  "scripts": {
+    "start": "node vendor/server.mjs",
+    "preview:vendored": "node vendor/server.mjs",
+    "check": "node vendor/check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
