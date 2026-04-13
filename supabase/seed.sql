@@ -1,0 +1,4 @@
+-- Example seed data placeholders. Replace UUIDs after creating auth users.
+-- insert into public.users (id, role, full_name, phone, locale) values
+-- ('worker-uuid', 'worker', 'Abdi Hassan', '+25377000000', 'en'),
+-- ('employer-uuid', 'employer', 'Société Horizon', '+25377000001', 'fr');
